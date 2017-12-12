@@ -1,0 +1,10 @@
+.home-modal{
+	width:100%;
+	height:600px;
+	overflow:auto;
+	oveflow-x:hidden;	
+}
+.home-modal p{
+	margin-left:15px;
+	margin-right:15px;
+}
